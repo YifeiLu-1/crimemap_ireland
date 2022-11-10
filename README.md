@@ -7,7 +7,7 @@ This is the source code of https://crimemap-ireland.netlify.app/, a website whic
 Install the dependencies and devDependencies and start the server.
 
 ```sh
-git clone https://github.com/YifeiLu-1/crime_map_ireland
+git clone git@github.com:YifeiLu-1/crimemap_ireland.git
 cd crimemap_ireland
 npm i
 npm run dev
